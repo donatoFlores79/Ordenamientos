@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1679417070 source:d:\seminario de estructuras de datos\tareas\constancia.cpp
+	"constancia.h"
+
+1679416776 d:\seminario de estructuras de datos\tareas\constancia.h
+	<iostream>
+
+1679416510 source:d:\seminario de estructuras de datos\tareas\cola.cpp
+	"cola.h"
+
+1679416818 d:\seminario de estructuras de datos\tareas\cola.h
+	"constancia.h"
+
+1679417278 source:d:\seminario de estructuras de datos\tareas\main.cpp
+	<iostream>
+	"cola.h"
+
+1679981688 source:d:\seminario de estructuras de datos\tareas\busquedas\constancia.cpp
+	"constancia.h"
+
+1679980766 d:\seminario de estructuras de datos\tareas\busquedas\constancia.h
+	<iostream>
+
+1679981504 source:d:\seminario de estructuras de datos\tareas\busquedas\lista.cpp
+	"Lista.h"
+
+1679980968 d:\seminario de estructuras de datos\tareas\busquedas\lista.h
+	<iostream>
+	<stdio.h>
+	"constancia.h"
+
+1679981712 source:d:\seminario de estructuras de datos\tareas\busquedas\main.cpp
+	<iostream>
+	"Lista.h"
+
+1679981688 source:d:\seminario de estructuras de datos\tareas\ordenamientos\constancia.cpp
+	"constancia.h"
+
+1679980766 d:\seminario de estructuras de datos\tareas\ordenamientos\constancia.h
+	<iostream>
+
+1679982134 source:d:\seminario de estructuras de datos\tareas\ordenamientos\lista.cpp
+	"Lista.h"
+
+1679980968 d:\seminario de estructuras de datos\tareas\ordenamientos\lista.h
+	<iostream>
+	<stdio.h>
+	"constancia.h"
+
+1679982134 source:d:\seminario de estructuras de datos\tareas\ordenamientos\main.cpp
+	<iostream>
+	"Lista.h"
+
