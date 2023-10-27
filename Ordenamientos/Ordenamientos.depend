@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697079544 source:d:\3sem\seminario estructuras de datos 1\ordenamientos\lista.cpp
+	"Lista.h"
+
+1697080280 source:d:\3sem\seminario estructuras de datos 1\ordenamientos\main.cpp
+	"Lista.h"
+
+1697069752 source:d:\3sem\seminario estructuras de datos 1\ordenamientos\solicitud.cpp
+	"Solicitud.h"
+
+1697069752 d:\3sem\seminario estructuras de datos 1\ordenamientos\solicitud.h
+	<iostream>
+
+1697069752 d:\3sem\seminario estructuras de datos 1\ordenamientos\lista.h
+	"Solicitud.h"
+
